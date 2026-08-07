@@ -50,9 +50,4 @@ Specialized in **LLM post-training**, distributed training on multi-node GPU clu
   <a href="https://pypi.org/user/pierpierpy/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierpierpy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierpierpy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
