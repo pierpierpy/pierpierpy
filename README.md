@@ -4,13 +4,6 @@
 
 **Senior Data Scientist & AI Engineer** · Milan, Italy
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
-  <img src="https://img.shields.io/badge/LLM-00d9ff?style=for-the-badge&logo=openai&logoColor=black" alt="LLM">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
 
 Specialized in **LLM post-training**, distributed training on multi-node GPU clusters, and automated evaluation pipelines. Building and aligning billion-parameter language models end-to-end — from synthetic data generation to production deployment.
 
